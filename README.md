@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sourav-pixel/Sourav-pixel/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
